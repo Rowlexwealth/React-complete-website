@@ -10,7 +10,7 @@ const Gallery = () => {
   const images = []
 
   for(let i=1; i<= galleryLength; i++) {
-    images.push(`../../../images/gallery${i}.jpg`)
+    images.push(`../images/gallery${i}.jpg`)
     // images.push(`../../images/gallery${i}.jpg`)
   }
 

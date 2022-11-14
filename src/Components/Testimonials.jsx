@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {ImQuotesLeft} from 'react-icons/im'
 import Card from '../UI/Card'
 import {IoIosArrowDropleftCircle, IoIosArrowDroprightCircle} from 'react-icons/io'
-import {testimonials} from './data'
+import {testimonials} from '../Components/data'
 import SectionHead from './SectionHead';
 
 const Testimonials = () => {
