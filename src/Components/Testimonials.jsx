@@ -42,10 +42,10 @@ const Testimonials = () => {
           </Card>
           <div className='testimonials_btn-container'>
             <button className='testimonials_btn' onClick={prevTestimonialHandler}>
-              <IoIosArrowDroprightCircle/>
+              <IoIosArrowDropleftCircle/>
             </button>
             <button className='testimonials_btn' onClick={nextTestimonialHandler}>
-              <IoIosArrowDropleftCircle/>
+              <IoIosArrowDroprightCircle/>
             </button>
           </div>
         </div>

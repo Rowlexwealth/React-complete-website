@@ -1,6 +1,5 @@
 import React from 'react'
 import FAQs from '../../Components/FAQs'
-import Footer from '../../Components/Footer'
 import MainHeaders from '../../Components/MainHeaders'
 import Programs from '../../Components/Programs'
 import Testimonials from '../../Components/Testimonials'

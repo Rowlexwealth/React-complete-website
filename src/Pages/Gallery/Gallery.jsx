@@ -10,10 +10,9 @@ const Gallery = () => {
   const images = []
 
   for(let i=1; i<= galleryLength; i++) {
-    images.push(`../../images/gallery${i}.jpg`)
+    images.push(`../../../images/gallery${i}.jpg`)
+    // images.push(`../../images/gallery${i}.jpg`)
   }
-
-  console.log(images);
 
   return (
     <>
@@ -25,7 +24,7 @@ const Gallery = () => {
         <div className='container gallery_container'>
           {images.map((images, index)=>{
             return ( <article key={index}>
-              <img src={images} alt={`Gallery Image ${index + 1}`} require/>
+              <img src={images} alt={`Gallery Image ${index + 1}`} />
             </article>
             )
           })}
