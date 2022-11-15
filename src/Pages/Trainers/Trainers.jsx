@@ -2,8 +2,11 @@ import React from 'react'
 import './trainers.css'
 
 import Header from '../../Components/Header'
-import HeaderImage from '../../images/header_bg_5.jpg'
+import HeaderImage from '../../assets/images/header_bg_5.jpg'
+// import HeaderImage from '../../images/header_bg_5.jpg'
+
 import {trainers} from '../../Components/data'
+
 import {BsInstagram} from 'react-icons/bs'
 import Trainer from '../../Components/Trainer'
 import { FaFacebookF, FaLinkedin } from 'react-icons/fa';

@@ -2,7 +2,8 @@ import React from 'react'
 import './plans.css'
 
 import Header from '../../Components/Header'
-import HeaderImage from '../../images/header_bg_4.jpg'
+import HeaderImage from '../../assets/images/header_bg_4.jpg'
+// import HeaderImage from '../../images/header_bg_4.jpg'
 import Card from '../../UI/Card'
 import {plans} from '../../Components/data'
 

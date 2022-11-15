@@ -2,10 +2,10 @@ import React from 'react'
 import Header from '../../Components/Header'
 import './About.css'
 
-import HeaderImage from '../../images/header_bg_1.jpg'
-import StoryImage from '../../images/about1.jpg'
-import VisionImage from '../../images/about2.jpg'
-import MissionImage from '../../images/about3.jpg'
+import HeaderImage from '../../assets/images/header_bg_1.jpg'
+import StoryImage from '../../assets/images/about1.jpg'
+import VisionImage from '../../assets/images/about2.jpg'
+import MissionImage from '../../assets/images/about3.jpg'
 
 const About = () => {
   return (

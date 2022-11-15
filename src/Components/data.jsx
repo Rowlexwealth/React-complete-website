@@ -154,35 +154,35 @@ export const testimonials = [
         name: "Diana Ayi",
         quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
         job: "Student",
-        avatar: "../images/avatar1.jpg"
+        avatar: "./src/assets/images/avatar1.jpg"
     },
     {
         id: 2,
         name: "Daniel Vinyo",
         quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "Software Egineer",
-        avatar: "../images/avatar2.jpg"
+        avatar: "./src/assets/images/avatar2.jpg"
     },
     {
         id: 3,
         name: "Edem Quist",
         quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "University Lecturer",
-        avatar: "../images/avatar3.jpg"
+        avatar: "./src/assets/images/avatar3.jpg"
     },
     {
         id: 4,
         name: "Grace Lavoe",
         quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "Talking Parrot",
-        avatar: "../images/avatar4.jpg"
+        avatar: "./src/assets/images/avatar4.jpg"
     },
     {
         id: 5,
         name: "Nana Yaa Dankwa",
         quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
         job: "Pharmacist",
-        avatar: "../images/avatar5.jpg"
+        avatar: "./src/assets/images/avatar5.jpg"
     }
 ]
 
@@ -264,12 +264,12 @@ export const plans = [
 
 
 
-const Trainer1 = ('../images/trainer1.jpg')
-const Trainer2 = ('../images/trainer2.jpg')
-const Trainer3 = ('../images/trainer3.jpg')
-const Trainer4 = ('../images/trainer4.jpg')
-const Trainer5 = ('../images/trainer5.jpg')
-const Trainer6 = ('../images/trainer6.jpg')
+const Trainer1 = ('./src/assets/images/trainer1.jpg')
+const Trainer2 = ('./src/assets/images/trainer2.jpg')
+const Trainer3 = ('./src/assets/images/trainer3.jpg')
+const Trainer4 = ('./src/assets/images/trainer4.jpg')
+const Trainer5 = ('./src/assets/images/trainer5.jpg')
+const Trainer6 = ('./src/assets/images/trainer6.jpg')
 
 
 export const trainers = [

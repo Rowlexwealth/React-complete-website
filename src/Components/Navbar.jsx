@@ -5,7 +5,9 @@ import {GoThreeBars} from 'react-icons/go'
 import {MdOutlineClose} from 'react-icons/md'
 import './navbar.css'
 
-import Logo from '../images/logo.png'
+import Logo from '../assets/images/logo.png'
+
+// import Logo from '../images/logo.png'
 
 const Navbar = () => {
     const [isNavShowing, setIsNavShowing] = useState(false);

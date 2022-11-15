@@ -2,7 +2,8 @@ import React from 'react'
 import './gallary.css'
 
 import Header from '../../Components/Header'
-import HeaderImage from '../../images/header_bg_3.jpg'
+import HeaderImage from '../../assets/images/header_bg_3.jpg'
+// import HeaderImage from '../../images/header_bg_3.jpg'
 
 
 const Gallery = () => {
@@ -10,7 +11,7 @@ const Gallery = () => {
   const images = []
 
   for(let i=1; i<= galleryLength; i++) {
-    images.push(`../images/gallery${i}.jpg`)
+    images.push(`./src/assets/images/gallery${i}.jpg`)
     // images.push(`../../images/gallery${i}.jpg`)
   }
 
