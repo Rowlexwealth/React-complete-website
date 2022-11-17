@@ -1,6 +1,11 @@
 import {SiOpenaigym} from 'react-icons/si'
 
-
+const Trainer1 = require('./images/trainer1.jpg')
+const Trainer2 = require('./images/trainer2.jpg')
+const Trainer3 = require('./images/trainer3.jpg')
+const Trainer4 = require('./images/trainer4.jpg')
+const Trainer5 = require('./images/trainer5.jpg')
+const Trainer6 = require('./images/trainer6.jpg')
 
 export const links = [
     {
@@ -266,12 +271,7 @@ export const plans = [
 
 
 
-const Trainer1 = require('./images/trainer1.jpg')
-const Trainer2 = require('./images/trainer2.jpg')
-const Trainer3 = require('./images/trainer3.jpg')
-const Trainer4 = require('./images/trainer4.jpg')
-const Trainer5 = require('./images/trainer5.jpg')
-const Trainer6 = require('./images/trainer6.jpg')
+
 
 
 export const trainers = [

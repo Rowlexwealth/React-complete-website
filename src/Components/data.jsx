@@ -1,5 +1,32 @@
 import {SiOpenaigym} from 'react-icons/si'
+import Trainer1 from "../assets/images/trainer1.jpg"
+import Trainer2 from "../assets/images/trainer2.jpg"
+import Trainer3 from "../assets/images/trainer3.jpg"
+import Trainer4 from "../assets/images/trainer4.jpg"
+import Trainer5 from "../assets/images/trainer5.jpg"
+import Trainer6 from "../assets/images/trainer6.jpg"
 
+import avatar1 from "../assets/images/avatar1.jpg"
+import avatar2 from "../assets/images/avatar2.jpg"
+import avatar3 from "../assets/images/avatar3.jpg"
+import avatar4 from "../assets/images/avatar4.jpg"
+import avatar5 from "../assets/images/avatar5.jpg"
+
+import gallary1 from "../assets/images/gallery1.jpg"
+import gallary2 from "../assets/images/gallery2.jpg"
+import gallary3 from "../assets/images/gallery3.jpg"
+import gallary4 from "../assets/images/gallery4.jpg"
+import gallary5 from "../assets/images/gallery5.jpg"
+import gallary6 from "../assets/images/gallery6.jpg"
+import gallary7 from "../assets/images/gallery7.jpg"
+import gallary8 from "../assets/images/gallery8.jpg"
+import gallary9 from "../assets/images/gallery9.jpg"
+import gallary10 from "../assets/images/gallery10.jpg"
+import gallary11 from "../assets/images/gallery11.jpg"
+import gallary12 from "../assets/images/gallery12.jpg"
+import gallary13 from "../assets/images/gallery13.jpg"
+import gallary14 from "../assets/images/gallery14.jpg"
+import gallary15 from "../assets/images/gallery15.jpg"
 
 
 export const links = [
@@ -154,35 +181,35 @@ export const testimonials = [
         name: "Diana Ayi",
         quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
         job: "Student",
-        avatar: "./src/assets/images/avatar1.jpg"
+        avatar: avatar1
     },
     {
         id: 2,
         name: "Daniel Vinyo",
         quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "Software Egineer",
-        avatar: "./src/assets/images/avatar2.jpg"
+        avatar: avatar2
     },
     {
         id: 3,
         name: "Edem Quist",
         quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "University Lecturer",
-        avatar: "./src/assets/images/avatar3.jpg"
+        avatar: avatar3
     },
     {
         id: 4,
         name: "Grace Lavoe",
         quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
         job: "Talking Parrot",
-        avatar: "./src/assets/images/avatar4.jpg"
+        avatar: avatar4
     },
     {
         id: 5,
         name: "Nana Yaa Dankwa",
         quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
         job: "Pharmacist",
-        avatar: "./src/assets/images/avatar5.jpg"
+        avatar: avatar5
     }
 ]
 
@@ -264,12 +291,6 @@ export const plans = [
 
 
 
-const Trainer1 = ('./src/assets/images/trainer1.jpg')
-const Trainer2 = ('./src/assets/images/trainer2.jpg')
-const Trainer3 = ('./src/assets/images/trainer3.jpg')
-const Trainer4 = ('./src/assets/images/trainer4.jpg')
-const Trainer5 = ('./src/assets/images/trainer5.jpg')
-const Trainer6 = ('./src/assets/images/trainer6.jpg')
 
 
 export const trainers = [
@@ -315,4 +336,13 @@ export const trainers = [
         job: 'Physical Intelligence Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     }
+]
+
+
+
+export const galleryImages = [
+     gallary1, gallary2, gallary3, gallary4, gallary5, 
+     gallary6, gallary7, gallary8, gallary9, gallary10,
+     gallary11, gallary12, gallary13, gallary14, gallary15
+
 ]
